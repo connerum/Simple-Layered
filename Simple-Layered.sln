@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLogic", "BusinessLogic\BusinessLogic.csproj", "{244A65D1-1BD6-4C3E-882D-974CC5A4DF57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLogic.Tests", "BusinessLogic.Tests\BusinessLogic.Tests.csproj", "{C13D802F-BEBF-48A6-B71C-7D3F0A91A600}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webx", "webx\webx.csproj", "{243F3DB6-2A22-47A1-B636-B7E32220FC67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{244A65D1-1BD6-4C3E-882D-974CC5A4DF57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{244A65D1-1BD6-4C3E-882D-974CC5A4DF57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{244A65D1-1BD6-4C3E-882D-974CC5A4DF57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{244A65D1-1BD6-4C3E-882D-974CC5A4DF57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C13D802F-BEBF-48A6-B71C-7D3F0A91A600}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C13D802F-BEBF-48A6-B71C-7D3F0A91A600}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C13D802F-BEBF-48A6-B71C-7D3F0A91A600}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C13D802F-BEBF-48A6-B71C-7D3F0A91A600}.Release|Any CPU.Build.0 = Release|Any CPU
+		{243F3DB6-2A22-47A1-B636-B7E32220FC67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{243F3DB6-2A22-47A1-B636-B7E32220FC67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{243F3DB6-2A22-47A1-B636-B7E32220FC67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{243F3DB6-2A22-47A1-B636-B7E32220FC67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
